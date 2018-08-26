@@ -1,3 +1,7 @@
+.idea/
+sandbox/
+cmake-build-*
+
 # Prerequisites
 *.d
 
