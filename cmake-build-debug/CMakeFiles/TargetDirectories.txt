@@ -1,6 +1,0 @@
-/home/resson/01/github.com/topo/rtree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/resson/01/github.com/topo/rtree/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/resson/01/github.com/topo/rtree/cmake-build-debug/CMakeFiles/rtree.dir
-/home/resson/01/github.com/topo/rtree/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
-/home/resson/01/github.com/topo/rtree/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
-/home/resson/01/github.com/topo/rtree/cmake-build-debug/lib/CMakeFiles/librtree.dir

@@ -1,4 +1,0 @@
-/home/resson/tools/c2018.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/clang -DCMAKE_CXX_COMPILER=/usr/bin/clang++ -G "CodeBlocks - Unix Makefiles" /home/resson/01/github.com/topo/rtree
--- Configuring done
--- Generating done
--- Build files have been written to: /home/resson/01/github.com/topo/rtree/cmake-build-debug
